@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some abuses of the law detected in a seasonable discourse thereupon between a Parliament-man and a lawyer, now recomended to the consideration of the Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60753</idno>
+            <idno type="STC">Wing S4465</idno>
+            <idno type="STC">ESTC R25773</idno>
+            <idno type="EEBO-CITATION">09118626</idno>
+            <idno type="OCLC">ocm 09118626</idno>
+            <idno type="VID">42471</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60753)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42471)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1295:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some abuses of the law detected in a seasonable discourse thereupon between a Parliament-man and a lawyer, now recomended to the consideration of the Parliament.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Sowle,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  Great Britain.</term>
+               <term>Justice, Administration of --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:42471:1"/>
+            <pb n="1" facs="tcp:42471:1"/>
+            <head>SOME <hi>Abuſes of the Law Detected,</hi> In a Seaſonable DISCOURSE Thereupon: Between a Parliament-Man and a Lawyer, Now Recomended to the Conſideration of the PARLIAMENT.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>Lawyer, I</hi> Am glad I have met with you, for I long to have ſome ſerious diſcourſe with you: I under<g ref="char:EOLhyphen"/>ſtand that ſome hot-headed people, that never think themſelves well but when they are Reform<g ref="char:EOLhyphen"/>ing forſooth, have a Months mind to be Re<g ref="char:EOLhyphen"/>forming the Law too.</p>
+            <p>
+               <hi>Member,</hi> Why truly Sir, ſince the diſ<g ref="char:EOLhyphen"/>courſe has been on foot, I have taken ſome Pains to inſpect the Law, and I find a great many things in it that ſerve only to perplex Cauſes, and are of no other uſe in the World: Now truly I am for paring off all this; and many other things there are, that need abundance of Re<g ref="char:EOLhyphen"/>dreſs.</p>
+            <p>
+               <hi>Law.</hi> Pray Sir let's know what theſe things are, for I think we have nothing that is ſu<g ref="char:EOLhyphen"/>perfluous.</p>
+            <p>
+               <hi>Mem.</hi> Why, I my ſelf had an occaſion to Outlaw a Fugitive fellow, t'other day, and before I could get one Writ to the purpoſe, I was fain to have three or four, that are wholy uſeleſs; I think you call them <hi>Capias, Alias</hi> and <hi>Plures,</hi> and there muſt be fifteen days between the Date and Return of every one of theſe uſeleſs Writs, be<g ref="char:EOLhyphen"/>ſides the danger of having any error in them: Another thing that is as imperti<g ref="char:EOLhyphen"/>nent is, notwithſtanding the uſe of al<g ref="char:EOLhyphen"/>moſt all Original Writs is laid aſide, for now you do not Summon the Defendant, but proceed to <hi>Capias,</hi> and take Bail thereon: Yet, forſooth, thoſe Originals muſt be continued, and the want of them or the diſagreeing of them, with the reſt of the proceedings, ſhall vitiate the whole Cauſe. An induſtrious Tenant of mine t'other day, that had got a fair Judgment by Confeſſion for a Hundred Pounds, had his Judgment Reverſed, and he is without remedy, becauſe a careleſs or a knaviſh At<g ref="char:EOLhyphen"/>turney filed no Original; and yet theſe Originals are of no uſe in the World:
+<pb n="2" facs="tcp:42471:2"/>And I can tell you another thing that's as ſtrange, not long ſince a Neighbour of mine, and one of the Freeholders whom I repreſent, had an occaſion to bring two Actions, the one of Treſpaſs, and the o<g ref="char:EOLhyphen"/>ther of Debt, and notwithſtanding the merits of the Cauſes were fairly tryed, and he had Verdicts in both, and it coſt him a great deal of Money and pains too; for he neglected his other buſineſs, and came to Town to attend it: Yet for all this, becauſe in the Action of Treſpaſs on the Record, 'twas <hi>Quod Cum</hi> in the Declara<g ref="char:EOLhyphen"/>tion, the Judgment was ſet aſide becauſe the word <hi>(Cum)</hi> was too much (and 'tis as dangerous to omit it in other Actions) And in the Action of Debt, tho his Coun<g ref="char:EOLhyphen"/>ſel tells him there's not the leaſt error in the Judgment, the Defendant (who has the longeſt purſe) has brought a Writ of Error, which is granted of courſe, which will ſtave it off three Terms more, and truly I fear before that time is out, the poor Fellow muſt run away; I told theſe Stories t'other day to an Ingeniout <hi>Dutch-Man,</hi> who was curious to be in<g ref="char:EOLhyphen"/>formed of our Laws, and he was amazed to hear them; he told me that in <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> in many Caſes they could Arreſt, have a Tryal and Execution in two or three days time, without any of theſe Incumbrances; and I hope to ſee it ſo here too; for what need is there I pray of your common uſeleſs imparlances, as you call them? only to protract Time, en<g ref="char:EOLhyphen"/>rich the Lawyer, and begger the Cly<g ref="char:EOLhyphen"/>ent.</p>
+            <p>
+               <hi>Law.</hi> Sir, It has been thus theſe many Years, and why ſhould we think our ſelves wi<g ref="char:EOLhyphen"/>ſer then our Anceſtours; beſides Sir, I per<g ref="char:EOLhyphen"/>ceive you are perfectly for deſtroying the Gran<g ref="char:EOLhyphen"/>dure and Dignity of the Law; which I hope the Lawyers in the Houſe (and in ſpite of your Teeth we ſhall always have ſome there) will be careful to preſerve. As to Originals, they are a great Revenue to the Chancellour, and the taking them away would Ruin the Curſi<g ref="char:EOLhyphen"/>ters almoſt, that have all bought their places (tho of right I confeſs they ought not) and be<g ref="char:EOLhyphen"/>ſides Originals were of great uſe formerly; and I don't ſee why they ſhould be laid aſide.</p>
+            <p>
+               <hi>Mem.</hi> Formerly all Men were obliged to keep Bows and Arrows, but now they are uſeleſs, and Guns are in requeſt, it would be Nonſence ſtill to enjoyn people to have them, leaſt the Bow and Arrow Trade ſhould be ſpoyl'd: Now the new great Lights are in faſhion, there's no need of Candles at the ſame doors too; and as to your Antiquity, if that were ſufficient to juſtifie Error; <hi>Popery</hi> with all its fopperies muſt have continued; and the <hi>Heathen</hi> will never be converted at that rate; and as to its being a Digni<g ref="char:EOLhyphen"/>ty to the Law, I take it to be the greateſt Indignity, and 'tis much like a Story I have heard of an old Dotard, that would leave his Sword off, but would wear his Scabbard for the Dignity of the thing.</p>
+            <p>
+               <hi>Law.</hi> But I hope theſe are all your Ob<g ref="char:EOLhyphen"/>jections.</p>
+            <p>
+               <hi>Mem.</hi> No Sir, I could cram a Volume with them, had I time to recount them, I have been ſeriouſly conſidering of Fines and Recoveries, and truly I think, that either no Entails or Remainders ought to be defeated by any way whatever, or that all ſuch Entails and Remainders, as may be defeated by Fines or Recoveries, ſhould be wholy void and of none effect, without ſuch troubleſome, chargeable, impertinent, and dangerous Ceremonies; for if you'l allow them to be defeated, why not without this charge and danger to the Clyent. Not long ſince a Kinſman of mine that had purchaſed an Eſtate en<g ref="char:EOLhyphen"/>tailed, had a Fine and Recovery paſſed for his ſecurity; and he's now like to looſe it, the Fine its fear'd will be Rever<g ref="char:EOLhyphen"/>ſed, becauſe there are not fifteen days be<g ref="char:EOLhyphen"/>tween
+<pb n="3" facs="tcp:42471:2"/>the Teſte and Return of the Writ of Covenant; as to the Recovery either the Writ of Entry or <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is loſt, all which Writs are wholy uſeleſs in themſelves; and further, as to the Recovery; in a feign'd Judgment between the Demandant Tenant, and <hi>John Wheeler,</hi> there is a fa<g ref="char:EOLhyphen"/>tal miſtake in the ſham Story forſooth; now is it not a deplorable thing that a Man ſhould looſe an Eſtate on theſe Ac<g ref="char:EOLhyphen"/>counts, that he has honeſtly paid for? Not but that I am for publick Regiſters (in their room) for all Deeds whatever, that affect Inheritance, to prevent fraud:</p>
+            <p>
+               <hi>Law.</hi> Surely you think your ſelf wiſer then all that went before you; you are for turning the World upſide down, this would impoveriſh one quarter of the Families that are ſupported by the Law, and pray remember you are breeding your own Son up to it too; the King would looſe part of his Revenue, if the Alienations by Fines and Recoveries ſhould be deſtroyed, and a Thouſand other miſchiefs would happen; What would you have the Law as plain that every Cobler ſhould underſtand it; you talk thus Sir, becauſe you don't apprehend the Nature of theſe things.</p>
+            <p>
+               <hi>Mem.</hi> Truly there is a myſtery of Ini<g ref="char:EOLhyphen"/>quity in it, for my part, I think, the Law that concerns every body, ought to be as eaſie as poſſible; as to my Son, I had rather he got a little honeſtly, then a great deal by oppreſſion, which never wears well; the King you ſee by his Re<g ref="char:EOLhyphen"/>nouncing Chimney-Money, is not fond of Taxes that oppreſs the People; and I am ſure Chimney-Money has not ruined more Families then this hath done and may do; and as to your other Argument, I have hear'd a Soldier uſe the ſame againſt Disbanding an Army, when all trouble was over, and there was no further occa<g ref="char:EOLhyphen"/>ſion of them, Why ſay's he, ſeveral Officers and Soldiers have no other Live<g ref="char:EOLhyphen"/>ly-hood, and if you Disband us we muſt either Beg, Rob, or Starve, and yet I think 'twould be a madneſs for any Na<g ref="char:EOLhyphen"/>tion to continue them to the oppreſſion of all, for fear they ſhould reduce ſome par<g ref="char:EOLhyphen"/>ticular Men to their Shifts. Another horrid oppreſſion is this, I have known a Countrey-Man bring an Action but for Ten Pounds, and I have ſeen an Attur<g ref="char:EOLhyphen"/>nies Bill of Fifteen Pounds for the get<g ref="char:EOLhyphen"/>ting it; and if he endeavours any redreſs againſt this Knave, the Remedy is worſe than the Deſeaſe.</p>
+            <p>
+               <hi>Law.</hi> Truly I have thought of that with ſhame, and I can think but of this one remedy for't, that is, if any Atturney ſhould make an oppreſſive Bill, and it ſhall be found and declared to be ſo before a Judg, that ſuch At<g ref="char:EOLhyphen"/>turnies ſhall forfeit all that is due to him on that Bill, and ſuch Bill certified by a Judge or Prothonotor to be extortive, ſhall be an ab<g ref="char:EOLhyphen"/>ſolute acquittance and discharge of the ſum total, <hi>Volenti non fit injuria,</hi> this will be a ſpeedy way of redreſs, and after this t'will be a hard matter to perſwade an Atturney to make a Roguiſh Bill.</p>
+            <p>
+               <hi>Mem.</hi> Truly I believe you have hit the Mark; ſet a Thief to catch a Thief, as the ſaying is; but another great oppreſ<g ref="char:EOLhyphen"/>ſion I have ſeen in the Law, is the dan<g ref="char:EOLhyphen"/>gerous and uſeleſs Niceties in Pleadings; and I think the late Parliaments have done very well in moſt of their Acts a<g ref="char:EOLhyphen"/>bout penalties, to order the general Iſſue to be Pleaded, and that the ſpecial matter be given in evidence, as you generally do in feigned Iſſues directed out of Chance<g ref="char:EOLhyphen"/>ry; and in all Ejectments, which <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of as great moment as any Action whatſoe<g ref="char:EOLhyphen"/>ver; and why may not this be as well done in all Caſes, I'le warrant Thouſands of Judgments (after fair Tryal and Ver<g ref="char:EOLhyphen"/>dicts) have been ſet aſide meerly on this account; and I don't ſee the advantage of the nice Pleadings to any but the Law<g ref="char:EOLhyphen"/>yers.</p>
+            <pb n="4" facs="tcp:42471:3" rendition="simple:additions"/>
+            <p>
+               <hi>Law.</hi> Why; if you ſhould ſtrip us at this rate, you would leave us nothing,</p>
+            <p>
+               <hi>Mem.</hi> Nothing, that's dangerous, charg<g ref="char:EOLhyphen"/>able, and impertinent, but all that's real<g ref="char:EOLhyphen"/>ly requiſite: Another thing is this, I think it a very hard caſe that all Law (like the Ladies Cloaths) muſt come from London, forſooth, all the Records muſt be made up, and kept here, and Writs muſt be ſent from hence only; even for us that live at the remoteſt Parts, why may not we make up and keep our Re<g ref="char:EOLhyphen"/>cords in the Countrey that they relate to, and have our proceſs upon the ſpot, without all this trouble for't.</p>
+            <p>
+               <hi>Law.</hi> Pray Sir no more on't, you have di<g ref="char:EOLhyphen"/>ſtracted me already?</p>
+            <p>
+               <hi>Mem.</hi> There is but one thing more; and then I have done with you for the preſent, and that's this; the Law of late is Swel'd to that bulk, and there are ſo many Books on't, and ſuch variety of o<g ref="char:EOLhyphen"/>pinions in them, that there is not one diſputable point, but a crafty Lawyer will Cite five or ſix Caſes to juſtifie the affirmative and negative too; now 'tis impoſſible we ſhould be at any certainty in our properties, till this be remedied: And therefore I intend to move the Houſe that five or ſix of the ableſt and moſt publick ſpirited Lawyers (if there are ſo many) may be appointed (and paid well for their pains) to determine what Books are of Authority, and what not; and e<g ref="char:EOLhyphen"/>ven of thoſe Books that are of Authority to geld out all the opinions that are not Law; and when they have thus deter<g ref="char:EOLhyphen"/>min'd what is Law and what is not, we'll put a ſacred ſtamp on't by Act of Parliament, that this only ſhall be taken for Law for the future; and then, and not till then, the Student will find ſome plea<g ref="char:EOLhyphen"/>ſure in his now perplex'd Studies, and we ſhall find ſome certainty in the Law, which is now a meer Lottery, and the Judges themſelves often can not tell what rule to go by; and Ile undertake, Men had better turn Croſs and Pile between them<g ref="char:EOLhyphen"/>ſelves, which way the Cauſe ſhall go, than imbark in a Suite as uncertain.</p>
+            <p>
+               <hi>Law.</hi> But I hope the Parliament will be Diſſolved before this comes to paſs; in the mean time i'll ſet all the Lawyers in Town to expoſe you, and ridicule the Project, and you know that's their Maſter-Piece, ſo Fare<g ref="char:EOLhyphen"/>well for this bout.</p>
+            <closer>
+               <signed>Licenſed, James Fraſer.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Andrew Sowle</hi> at the Sign of the <hi>Crooked-Bil<g ref="char:EOLhyphen"/>let</hi> in <hi>Holloway-Lane</hi> in <hi>Shoreditch:</hi> And at the <hi>Three Kyes</hi> in <hi>Nags-Head-Court</hi> in <hi>Grace-Church-Street.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
